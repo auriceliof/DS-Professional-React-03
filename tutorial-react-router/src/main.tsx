@@ -6,7 +6,6 @@ import Invoices from './routes/Invoices/index.tsx'
 import NotFound from './routes/NotFound/index.tsx'
 import Invoice from './routes/Invoices/Invoice/index.tsx'
 import InvoicesIndex from './routes/Invoices/InvoicesIndex/index.tsx'
-import Index from './routes/Welcome/index.tsx'
 import Welcome from './routes/Welcome/index.tsx'
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
