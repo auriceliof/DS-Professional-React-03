@@ -20,7 +20,7 @@ body {
     background-color: var(--color-bg-tertiary);
 }
 
-.a, a.hover {
+a, a.hover {
     text-decoration: none;
     color: unset;
 }
